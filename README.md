@@ -9,7 +9,7 @@ Updates for the Scientific Research and Experimental Development tax incentives 
 This repository was created via the **Design Assistant**.  
 It contains the template files and in-scope pages needed to get started.
 
-GitHub Pages: [https://cra-proto.github.io/sred](https://cra-proto.github.io/sred)
+GitHub Pages: [https://cra-proto.github.io/sred/en/services/taxes/income-tax/sred-topic.html](https://cra-proto.github.io/sred/en/services/taxes/income-tax/sred-topic.html)
 
 ---
 ## Update procedures
