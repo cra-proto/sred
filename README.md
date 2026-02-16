@@ -1,6 +1,6 @@
 # sred COP
 
-*description of the COP*
+Updates for the Scientific Research and Experimental Development tax incentives for 2026.
 
 **COP timeframe** 2025-12-30 - 2026-04-07
 
@@ -9,7 +9,7 @@
 This repository was created via the **Design Assistant**.  
 It contains the template files and in-scope pages needed to get started.
 
-GitHub Pages: [https://proto-cra.github.io/sred](https://proto-cra.github.io/sred)
+GitHub Pages: [https://cra-proto.github.io/sred](https://cra-proto.github.io/sred)
 
 ---
 ## Update procedures
